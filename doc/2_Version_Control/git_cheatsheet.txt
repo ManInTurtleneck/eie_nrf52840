@@ -6,3 +6,7 @@ git push // pushes current files to github servers
 git merge // Merges files from 2 local repositories
 git rebase // Applies commits from one branch to another
 git fetch // Fetches new commits and branches without changing your local branch
+git add // Stages changes
+git status // Shows the state of files in the directory
+git log // Shows history of commits
+git diff // Shows the contents of every file changed
