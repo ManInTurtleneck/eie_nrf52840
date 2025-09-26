@@ -1,0 +1,8 @@
+git commit // Commits current repository to local github
+git branch // Edits branches create and pull
+git checkout // switches to another branch
+git pull // Pull stored branch on git servers
+git push // pushes current files to github servers
+git merge // Merges files from 2 local repositories
+git rebase // Applies commits from one branch to another
+git fetch // Fetches new commits and branches without changing your local branch
